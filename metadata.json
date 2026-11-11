@@ -1,0 +1,6 @@
+{
+  "name": "SUKISOTI",
+  "description": "A cozy, vibrant 3D endless runner with synth soundscapes, Subway Surfers mechanics, procedural tracks, and playable heroines Noor, Ravneet, and Jass.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
